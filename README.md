@@ -26,6 +26,7 @@
 
 - [Interpreting Analysis Results](#interpreting-analysis-results)
 - [Visualizing Data](#visualizing-data)
+- [Prerequisites](#Prerequisites)
 - [Getting Started](#getting-started)
 
 
@@ -55,12 +56,39 @@ Data visualization is an important aspect of this project. Visualizations make i
 
 3. **Create Your Visualizations**: If you wish to create custom visualizations, refer to the sample code provided in the project files or use the recommended visualization tools to plot your own charts.
 
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+- An IBM Cloud account: [https://cloud.ibm.com/registration](https://cloud.ibm.com/registration)
+- Python 3 installed
+- IBM Cloud CLI installed
+- Create an IBM Cloud db2 database.
 
 
 ## Getting Started
 
 Big data is a collection of massive and complex data sets and data volume that include the huge quantities of data, data management capabilities, social media analytics and real-time data. Big data analytics is the process of examining large amounts of data.
 	The dataset of annual surface temperature is a significant component of the broader domain of big data, which encompasses vast and intricate data collections characterized by substantial data volume. This specific dataset pertains to the annual variations in surface temperature across different geographical locations. It plays a critical role in climate science, environmental research, and various applications in sectors such as agriculture, energy, and urban planning.
+
+Follow these steps to set up the project:
+
+1. *Clone the Repository:*
+   bash
+   git clone https://github.com/AKAkilesh/Big-data-analysis.git
+   cd Big-data-analysis
+
+
+3. **Configurations:**
+
+   Configure your IoT devices to send data to IBM Cloud Functions.
+   Update the necessary configuration in config.py.
+
+## Contact
+
+   - *Name:* KANAGARAJ M
+   - *Email:* kanagarajm638@gmail.com
+   - *LinkedIn:* [Kanagaraj.M](https://www.linkedin.com/in/kanagaraj-m-b86439227/)
+   - *GitHub:* [KANAGARAJ M](https://github.com/KANAGARAJ-M)
 	The dataset consists of extensive records of temperature measurements obtained from various sources, including weather stations, satellites, and remote sensing technologies. These measurements are collected at regular intervals, typically on an annual basis, and cover a broad spectrum of spatial and temporal scales. The dataset spans multiple years or decades, enabling researchers to examine long-term trends and patterns in surface temperature.
 
 
