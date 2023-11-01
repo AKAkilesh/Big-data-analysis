@@ -76,20 +76,19 @@ Follow these steps to set up the project:
    bash
    git clone https://github.com/AKAkilesh/Big-data-analysis.git
    cd Big-data-analysis
+2. *Conclusion:*
+   The dataset consists of extensive records of temperature measurements obtained from various sources, including weather stations, satellites, and remote sensing technologies. These measurements are collected at regular intervals, typically on an annual basis, and cover a broad spectrum of spatial and temporal scales. The dataset spans multiple years or decades, enabling researchers to examine long-term trends and patterns in surface temperature.
 
 
-3. **Configurations:**
 
-   Configure your IoT devices to send data to IBM Cloud Functions.
-   Update the necessary configuration in config.py.
+
 
 ## Contact
 
-   - *Name:* KANAGARAJ M
-   - *Email:* kanagarajm638@gmail.com
-   - *LinkedIn:* [Kanagaraj.M](https://www.linkedin.com/in/kanagaraj-m-b86439227/)
-   - *GitHub:* [KANAGARAJ M](https://github.com/KANAGARAJ-M)
-	The dataset consists of extensive records of temperature measurements obtained from various sources, including weather stations, satellites, and remote sensing technologies. These measurements are collected at regular intervals, typically on an annual basis, and cover a broad spectrum of spatial and temporal scales. The dataset spans multiple years or decades, enabling researchers to examine long-term trends and patterns in surface temperature.
-
+   - *Name:* AKILESH A.K
+   - *Email:* akileshkaruppaiah@gmail.com
+   
+   - *GitHub:* [AKAkilesh](https://github.com/AKAkilesh)
+	
 
 
