@@ -26,7 +26,6 @@
 
 - [Interpreting Analysis Results](#interpreting-analysis-results)
 - [Visualizing Data](#visualizing-data)
-- [Dependencies](#dependencies)
 - [Getting Started](#getting-started)
 
 
@@ -56,32 +55,13 @@ Data visualization is an important aspect of this project. Visualizations make i
 
 3. **Create Your Visualizations**: If you wish to create custom visualizations, refer to the sample code provided in the project files or use the recommended visualization tools to plot your own charts.
 
-## Dependencies
 
-This project relies on several dependencies to run successfully. To set up the required environment:
-
-1. **Python Environment**: Make sure you have Python installed on your system. We recommend using Python 3.7 or higher.
-
-2. **Required Libraries**: Install the necessary Python libraries by running the following command:
-   ```
-   pip install -r requirements.txt
-   ```
-
-   The `requirements.txt` file contains a list of all the libraries and their versions needed for the project.
 
 ## Getting Started
 
-To get started with the project, follow these steps:
+Big data is a collection of massive and complex data sets and data volume that include the huge quantities of data, data management capabilities, social media analytics and real-time data. Big data analytics is the process of examining large amounts of data.
+	The dataset of annual surface temperature is a significant component of the broader domain of big data, which encompasses vast and intricate data collections characterized by substantial data volume. This specific dataset pertains to the annual variations in surface temperature across different geographical locations. It plays a critical role in climate science, environmental research, and various applications in sectors such as agriculture, energy, and urban planning.
+	The dataset consists of extensive records of temperature measurements obtained from various sources, including weather stations, satellites, and remote sensing technologies. These measurements are collected at regular intervals, typically on an annual basis, and cover a broad spectrum of spatial and temporal scales. The dataset spans multiple years or decades, enabling researchers to examine long-term trends and patterns in surface temperature.
 
-1. Clone the project repository to your local machine:
-   ```
-   git clone [repository URL]
-   ```
-
-2. Install the dependencies, as explained in the "Dependencies" section.
-
-3. Explore the dataset, analysis results, and visualizations as outlined in the "Interpreting Analysis Results" and "Visualizing Data" sections.
-
-4. Feel free to contribute to the project or use the results and visualizations for your own purposes.
 
 
